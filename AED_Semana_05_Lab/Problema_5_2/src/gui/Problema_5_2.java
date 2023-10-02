@@ -111,7 +111,7 @@ public class Problema_5_2 extends JFrame implements ActionListener {
     	imprimir("Cantidad mayores al promedio      :  " + as.cantMayoresSueldoPromedio());
     	imprimir("Cantidad menores al promedio      :  " + as.cantMenoresSueldoPromedio());
     	imprimir("Posición del segundo mayor 850  :  " + as.posSegundoSueldoMayorAlMinimo());
-    	imprimir("Posición del �ltimo mayor 850 :  " + as.posUltimoSueldoMenorAlMinimo());
+    	imprimir("Posición del último mayor 850 :  " + as.posUltimoSueldoMenorAlMinimo());
 	}
 	protected void actionPerformedBtnGenerar(ActionEvent arg0) {
 		/**
